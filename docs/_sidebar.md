@@ -1,3 +1,4 @@
+* [algorithm](algorithm/)
 * [css](css/)
 * [dart](dart/)
 * [front-around](front-around/)
